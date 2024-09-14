@@ -231,7 +231,7 @@ body main .cta {
 
 body a {
     text-decoration: none;
-    color: #800020;
+    color: #FF0000;
 }
 
 body a span:not(emoji) {
@@ -256,7 +256,7 @@ body h6 {
 body h1 {
     font-size: 1.4em;
     margin-bottom: 1em;
-    color: #800020;
+    color: #FF0000;
 }
 
 body p {
